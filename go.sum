@@ -1,0 +1,5 @@
+github.com/go-cmd/cmd v1.3.1 h1:Scpez/YLL7xBmc1KRxDtHNXnamzQWqF4Sqy9SHnIMfE=
+github.com/go-cmd/cmd v1.3.1/go.mod h1:VZqpYlBauogsSkJrj8NzQM6r/tztSewD/PfHCVjTdnA=
+github.com/go-test/deep v1.0.7/go.mod h1:QV8Hv/iy04NyLBxAdO9njL0iVPN1S4d/A3NVv1V36o8=
+github.com/rjnienaber/redis-benchmark-go v0.0.0-20171008093221-af96cf4fa4c4 h1:ESa/MCPYqbrquftxwpiBB+1g24iQ1i093lCT96yWNUM=
+github.com/rjnienaber/redis-benchmark-go v0.0.0-20171008093221-af96cf4fa4c4/go.mod h1:lC3mlYBcDZ7G9dmiTiZlspl5XQa0vltukQsuHlaSUqw=
